@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=NetMeterApplet
+Name=Nub Meter Applet
+Description=Network Speed Applet for Budgie Desktop
+Authors=jmkl
+Copyright=Copyright © 2018 jmkl
+Website=https://github.com/jmkl
+Icon=user-desktop-symbolic
